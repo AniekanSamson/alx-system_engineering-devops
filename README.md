@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-This is my first shell basics repository
+This repositiry describes the basics of shell, bash commannds and the shebang in executing simple shell scripts
